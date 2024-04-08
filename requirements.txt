@@ -1,0 +1,7 @@
+llama-index
+llama-parse
+Jinja2
+rapidfuzz
+gradio
+markdown2
+python-dotenv
