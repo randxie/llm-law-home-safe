@@ -4,7 +4,7 @@ This repo contains cleaned code for project "Home Safe" in LLM x Law Hackthon in
 
 ## Why?
 
-California Association of Realtors have a set of standardized contracts. However, builders may customize the terms for their own benefits. Usually, these terms are only beneficial to the builders, but the individual home buyers. If you are not aware of the traps, you may pay expensive tuitions (the tuition can be more expensive than going to law school!).
+California Association of Realtors have a set of standardized contracts. However, builders may customize the terms for their own benefits. Usually, these terms are only beneficial to the builders, but not the individual home buyers. If you are not aware of these traps, you may pay expensive tuitions (the tuition can be more expensive than going to law school!!!).
 
 This small tool leverages LLM to analyze terms that deviates from the standard templates, and aim to help people buy home safe.
 
